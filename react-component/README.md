@@ -11,7 +11,7 @@ Let enter new porjects
 ### Posting Panel
 Display projects register by clients and for each project posted are one button by strategy ( files system, stream reader, database and cache) to display quotation report using strategy algorithm. 
 
-### Quotation Report
+### Quotation Report (Modal)
 Display quotations list by posted project. It show the time process (server side).
 
 ```
