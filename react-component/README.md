@@ -18,7 +18,7 @@ Display quotations list by posted project. It show the time process (server side
       Time: 55.663ms
       
   Contractor: 1
-  Resquestd Units: 450
+  Resquested Units: 450
   Total Cost: 450 USD
 ```
 
